@@ -1,24 +1,4 @@
-# t
+# Solution Code for the problem asked in Fourth Frontier placement test
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## This includes code in vue.js 
+## To run the code click on the given link of sandbox
